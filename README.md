@@ -4,6 +4,7 @@ Basics of machine learning techniques are presented along with a *restricted Bol
 
 ![alt text](https://github.com/dkomni/machine-learning-overview/blob/master/deep_nn.png)
 
+## Overview
 The pdf file *Machine-Learning-Overview-DKomninos* included in this repository presents some general Artificial Intelligence (AI) and Machine Learning (ML) concepts with thorough mathematics. Several basics such as *neural networks*, *gradient descent* and the *backpropagation algorithm* are discussed, along with comments on *hyperparameters*, *datasets* and *training*. Also, a general idea about *generative adversarial neural networks (GANs)* is introduced, arriving at the investigation of *restricted Boltzmann Machines (RBMs)* for generative modeling. A RBM is trained on the Fashion-MNIST dataset using the *Contrastive Divergence* algorithm and learns to generate synthetic data (reconstruct samples) that resemble the ones of the Fashion-MNIST dataset.
 
 ### Notes

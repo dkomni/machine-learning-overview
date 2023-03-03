@@ -21,7 +21,7 @@ Implementation of simple neural networks, backpropagation algorithm and some dat
 Implementation of neural networks and tests on hyperparameters using Keras package from Tensorflow.
 
 #### 03_RBMs
-Implementation of a restricted Boltzmann machine (RBM) for generative modeling on the Fashion-MNIST dataset, trained with Contrastive Divergence algorithm and reconstructing data with Gibbs sampling, along with results and comments.
+Implementation of a restricted Boltzmann machine (RBM) for generative modeling on the Fashion-MNIST dataset, trained with Contrastive Divergence algorithm and reconstructing data with Gibbs sampling, along with results and comments. Heuristics such as momentum and learning rate decrease at the end of training are employed following Hinton's practical guide for training RBMs: https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf
 
 *Python version*: 3.10.6
 

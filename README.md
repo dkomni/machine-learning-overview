@@ -10,7 +10,7 @@ The pdf file *Machine-Learning-Overview-DKomninos* included in this repository p
 ### Notes
 Whether using Windows, macOS or Linux, it is recommended that you create a virtual environment for Python and install the required packages within it. In this way, you isolate your operating system from the new installations and prevent possible compatibility issues. Also, make sure that you install the Jupyter kernel, which can be used to run Jupyter commands inside the virtual environment.
 
-Special thanks to my friend Antonios Kastellakis for providing the code on RBMs and helped me with my introduction on generative modeling. You may find his thesis 'Analog and Digital Quantum Neural Networks: Basic Concepts and Applications', where he trains a RBM on the MNIST dataset of hand-written digits at: http://dimitrisangelakis.org/theses/
+Special thanks to my friend Antonios Kastellakis for providing insights on RBMs and helped me with my introduction on generative modeling. You may find his thesis 'Analog and Digital Quantum Neural Networks: Basic Concepts and Applications', where he trains a RBM on the MNIST dataset of hand-written digits at: http://dimitrisangelakis.org/theses/
 
 ### Some insight on the notebooks
 

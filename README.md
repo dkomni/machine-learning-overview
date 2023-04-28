@@ -1,6 +1,6 @@
 # An Overview of Machine Learning Techniques
 
-Basics of machine learning techniques are presented along with a *restricted Boltzmann machine (RBM)* for *generative modeling* on *Fashion-MNIST* using Python. Also, a *generative adversarial network (GAN)* is implemented that generates synthetic data that resemble MNIST handwritten digits. This work was conducted at the context of my thesis preparation in Electrical & Computer Engineer at Technical University of Crete (TUC), Greece.
+Basics of machine learning techniques are presented along with a *restricted Boltzmann machine (RBM)* for *generative modeling* on *Fashion-MNIST* using Python. Also, a *generative adversarial network (GAN)* is implemented that generates synthetic data that resemble MNIST handwritten digits. This work was conducted at the context of my thesis preparation titled *'Quantum Computing for Generative Modeling and Applications'* in Electrical & Computer Engineer at Technical University of Crete (TUC), Greece.
 
 <img src="https://github.com/dkomni/machine-learning-overview/blob/master/models.jpg" width="1000" height="500">
 

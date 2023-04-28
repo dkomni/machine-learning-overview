@@ -24,7 +24,7 @@ Implementation of neural networks and tests on hyperparameters using Keras packa
 Implementation of a restricted Boltzmann machine (RBM) for generative modeling on the Fashion-MNIST dataset, trained with Contrastive Divergence algorithm and reconstructing data with Gibbs sampling, along with results and comments. Heuristics such as momentum and learning rate decrease at the end of training are employed following Hinton's practical guide for training RBMs: https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf
 
 #### 04_GANs
-A generative adversarial network (GAN) trained to generate synthetic handwritten digits from random noise input is presented.
+A generative adversarial network (GAN) trained to generate synthetic handwritten digits from random noise input is presented. This is just a basic presentation. The model may be further optimized.
 
 *Python version*: 3.10.6
 

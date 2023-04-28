@@ -2,7 +2,7 @@
 
 Basics of machine learning techniques are presented along with a *restricted Boltzmann machine (RBM)* for *generative modeling* on *Fashion-MNIST* using Python. Also, a *generative adversarial network (GAN)* is implemented that generates synthetic data that resemble MNIST handwritten digits. This work was conducted at the context of my thesis preparation in Electrical & Computer Engineer at Technical University of Crete (TUC), Greece.
 
-<img src="https://github.com/dkomni/machine-learning-overview/blob/master/models.jpg" width="600" height="400">
+<img src="https://github.com/dkomni/machine-learning-overview/blob/master/models.jpg" width="1000" height="400">
 
 ## Overview
 The pdf file *Machine-Learning-Overview-DKomninos* included in this repository presents some general Artificial Intelligence (AI) and Machine Learning (ML) concepts with thorough mathematics. Several basics such as *neural networks*, *gradient descent* and the *backpropagation algorithm* are discussed, along with comments on *hyperparameters*, *datasets* and *training*. Also, a general idea about *generative adversarial neural networks (GANs)* is introduced, arriving at the investigation of *restricted Boltzmann Machines (RBMs)* for generative modeling. A RBM is trained on the Fashion-MNIST dataset using the *Contrastive Divergence* algorithm and learns to generate synthetic data (reconstruct samples) that resemble the ones of the Fashion-MNIST dataset. The RBM may be further improved, as this is an implementation that tackles with aspects that Hinton presents in his guide. Moreover, a GAN is trained to generate synthetic handwritten digits from totally random inputs.
